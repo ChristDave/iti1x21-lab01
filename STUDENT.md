@@ -1,8 +1,10 @@
-```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+
+******************************************************************************
+Student name: Christian TCHOUTANG
+Student number: 300101550
+Course code: ITI1521
 Lab: Lab01
-Course section: 02
-Java: 1.8
-```
+Lab section: 01
+TA: TBD
+Java: 13.0.2
+******************************************************************************
